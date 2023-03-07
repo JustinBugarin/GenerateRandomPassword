@@ -11,3 +11,13 @@ after all the choices are selected it should generate a random password with how
 
 I did my best but I did get some help from google by finding how to combine the arrays by ".concat"
 
+![image desc](./Challenge-3/images/Challenge3-1.JPG)
+![image desc](./Challenge-3/images/Challenge3-2.JPG)
+![image desc](./Challenge-3/images/Challenge3-3.JPG)
+![image desc](./Challenge-3/images/Challenge3-4.JPG)
+![image desc](./Challenge-3/images/Challenge3-5.JPG)
+![image desc](./Challenge-3/images/Challenge3-6.JPG)
+
+Live Repo::
+https://justinbugarin.github.io/GenerateRandomPassword/
+
